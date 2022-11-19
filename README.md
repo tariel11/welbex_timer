@@ -1,2 +1,2 @@
 # welbex_timer
-таймер на react
+таймер на js
